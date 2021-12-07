@@ -1,5 +1,5 @@
 # A11
-Assignment Porfolio
+Assignment Portfolio
 
 In my Fall 2021 semester at Temple University, I took a Consumer Data Analytics course. Throughout that semester, I was given 11 assignments for each corresponding module. The following is an organized listing of said assignments in chronological order. 
 
