@@ -26,6 +26,6 @@ Throughout the Fall 2021 semester, Professor Wang has given me 11 assignments ab
 9. **Module 9: Clustering and Segmentation**
    - [A9: Segmentation (retail transactions and behavioral segmentation)](https://colab.research.google.com/drive/1otmy5uQ4OqESnVRVCakzo2E2XRRNsfNG)
 10. **Module 10: Text Analysis**
-   - [A10: Vegas Resorts Text Mining](https://colab.research.google.com/drive/1w9UpDWNO3RFQLVAcAbNSlXyqg6RSvI45)
+    - [A10: Vegas Resorts Text Mining](https://colab.research.google.com/drive/1w9UpDWNO3RFQLVAcAbNSlXyqg6RSvI45)
 11. **Module 11: Use GitHub to Create Your Assignment Portfolio**
    - [A11: Market Your Consumer Data Analytics Skills](
