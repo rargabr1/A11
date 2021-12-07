@@ -1,7 +1,7 @@
 # A11
 Assignment Porfolio
 
-Throughout the Fall 2021 semester, Professor Wang has given me 11 assignments about each corresponding module. The following is an organized porfolio listing of said assignments
+In my Fall 2021 semester at Temple University, I took a Consumer Data Analytics course. Throughout that semester, I was given 11 assignments for each corresponding module. The following is an organized listing of said assignments in chronological order. 
 
 ## My Resume
 - [Resume](https://colab.research.google.com/drive/1bBK4qZYEVMJtMc5Qv9xVfAQFLTrNyZsw)
@@ -28,4 +28,4 @@ Throughout the Fall 2021 semester, Professor Wang has given me 11 assignments ab
 10. **Module 10: Text Analysis**
     - [A10: Vegas Resorts Text Mining](https://colab.research.google.com/drive/1w9UpDWNO3RFQLVAcAbNSlXyqg6RSvI45)
 11. **Module 11: Use GitHub to Create Your Assignment Portfolio**
-   - [A11: Market Your Consumer Data Analytics Skills](
+    - [A11: Market Your Consumer Data Analytics Skills](
