@@ -28,4 +28,4 @@ In my Fall 2021 semester at Temple University, I took a Consumer Data Analytics 
 10. **Module 10: Text Analysis**
     - [A10: Vegas Resorts Text Mining](https://colab.research.google.com/drive/1w9UpDWNO3RFQLVAcAbNSlXyqg6RSvI45)
 11. **Module 11: Use GitHub to Create Your Assignment Portfolio**
-    - [A11: Market Your Consumer Data Analytics Skills](
+    - [A11: Market Your Consumer Data Analytics Skills](https://github.com/rargabr1/A11/blob/main/README.md)
